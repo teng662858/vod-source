@@ -84,4 +84,7 @@
         "name": "四圈资源",
         "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
     }
+        "name": "鲨鱼资源",
+        "api": "https://shayuapi.com/api.php/provide/vod/"
+    }
 ]
